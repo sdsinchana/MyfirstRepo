@@ -5,3 +5,6 @@ for i in x:
     #print ASCII value
     for i in x:
         print(i,ord(i))
+
+for i in x:
+    print(i,i.upper(i))
